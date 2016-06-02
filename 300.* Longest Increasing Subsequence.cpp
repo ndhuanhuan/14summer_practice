@@ -1,6 +1,6 @@
 
 //api不熟
-
+//http://www.cnblogs.com/grandyang/p/4938187.html
 #include <iostream>
 #include <vector>
 #include <string>
